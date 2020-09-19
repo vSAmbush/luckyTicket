@@ -1,0 +1,23 @@
+{
+    "name": "vsambush/lucky-ticket",
+    "description": "This is a simple project which solves finding lucky combination in specified range",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladimir",
+            "email": "vovan19977@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    }
+}
